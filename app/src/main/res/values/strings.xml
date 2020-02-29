@@ -1,0 +1,74 @@
+<resources>
+    <string name="agreement">"파운드 개인정보 처리방침 \\n     파운드의 개인정보 처리방침은 아래의 내용을 담고 있습니다.\\n     제1조 목적\\n     제2조 수집하는 개인정보의 항목\\n     제3조 개인정보 수집에 대한 동의\\n     제4조 개인정보의 수집 및 이용목적\\n     제5조 이용자의 권리와 의무\\n\\n\\n\\n       제1조 (목적)\\n     “개인정보”란 생존하는 개인에 관한 정보로서 당해 정보에 포함되어 있는 성명, 주민등록번호 등의 사항에 의하여 당해 개인을 식별할 수 있는 정보(당해 정보 만으로는 특정 개인을 식별할 수 없더라도 다른 정보와 용이하게 결합하여 식별할 수 있는 것을 포함합니다)를 말합니다.\\n\\n\\n      제2조 (수집하는 개인정보의 항목)\\n     파운드는 회원가입 후에만 컨텐츠에 접근할 수 있기 때문에 이용자의 정보를 수집하고 있습니다. 컨텐츠에 접근하기 위해서는 다음의 정보를 입력해 주셔야합니다. 필수항목을 입력하지 않으시면 서비스 이용에 제한이 있습니다.\\n\\n      회원 가입 시 수집하는 개인정보의 범위\\n     필수항목 : 아이디, 비밀번호. 이름, 전화번호, 이메일주소     컨설턴트로 가입할 경우에는 추가로 자격증이름, 자격증번호를 입력해주셔야합니다 항목)’ 상 개인정보의 수집에 대해 동의를 거부할 수 있습니다. 다만, 거부하는 경우, 회원서비스 이용을 위한 회원가입이 불가하거나 회원서비스를 이용하지 못할 수 있습니다.\\n\\n\\n      제4조 (개인정보의 수집 및 이용목적)\\n     파운드는 다음과 같은 목적을 위하여 개인정보를 수집하고 있으며 목적이 변경될 경우에는 사전에 이용자의 동의를 구하도록 하겠습니다.\\n     1. 이메일주소(로그인 ID), 비밀번호 : 서비스 이용에 따른 본인 식별 절차에 이용\\n      제5조 (이용자의 권리와 의무)\\n     귀하의 개인정보를 최신의 상태로 정확하게 입력하여 불의의 사고를 예방해 주시기 바랍니다. 이용자가 입력한 부정확한 정보로 인해 발생하는 사고의 책임은 이용자 자신에게 있으며 타인 정보의 도용 등 허위정보를 입력할 경우 회원자격이 상실될 수 있습니다.\\n     ② 귀하는 개인정보를 보호받을 권리와 함께 스스로를 보호하고 타인의 정보를 침해하지 않을 의무도 가지고 있습니다. 비밀번호를 포함한 귀하의 개인정보가 유출되지 않도록 조심하시고 게시물을 포함한 타인의 개인정보를 훼손하지 않도록 유의해 주십시오. 만약 이 같은 책임을 다하지 못하고 타인의 정보 및 존엄성을 훼손할 시에는 『정보통신망이용촉진 및 정보보호 등에 관한 법률』, 『개인정보보호법』 등에 의해 처벌받을 수 있습니다. "</string>
+    <string name="sign_up">회원가입</string>
+    <string name="activity_agree_title">[개인정보 수집·이용 동의]</string>
+    <string name="activity_agree_question">※ 위 개인정보 수집이용에 동의하십니까?</string>
+    <string name="yes">예</string>
+    <string name="no">아니요</string>
+    <string name="next">다음</string>
+    <string name="prev">이전</string>
+    <string name="menu">메뉴</string>
+    <string name="menu_select_create">어디로 갈까요?</string>
+    <string name="menu_select_read">어디가 좋을까요?</string>
+    <string name="menu_select_create_ex">지역명을 입력해서 가고자 하는 지역의 역사깊은 장소나   위치기반 서비스를 통해 주변에 있는 문화재를 찾아보세요.</string>
+    <string name="menu_select_read_ex">선택하신 것 중 가장 마음에 드시는 것을 비교해서 골라보세요.</string>
+    <string name="login">로그인</string>
+    <string name="search">검색</string>
+    <string name="check_id">중복확인</string>
+    <string name="name">성명</string>
+    <string name="email">e-mail</string>
+    <string name="register">완료</string>
+    <string name="SEOUL">서울</string>
+    <string name="INCHEON">인천</string>
+    <string name="DAEJEON">대전</string>
+    <string name="DAEGU">대구</string>
+    <string name="GWANGJU">광주</string>
+    <string name="BUSAN">부산</string>
+    <string name="ULSAN">울산</string>
+    <string name="SEJONG">세종특별자치시</string>
+    <string name="GYEONGGI">경기도</string>
+    <string name="GANGWON">강원도</string>
+    <string name="CHUNGBUK">충청북도</string>
+    <string name="CHUNGNAM">충청남도</string>
+    <string name="JEONBUK">전라북도</string>
+    <string name="JEONNAM">전라남도</string>
+    <string name="KYONGBUK">경상북도</string>
+    <string name="KYONGNAM">경상남도</string>
+    <string name="JEJU">제주도</string>
+
+    <string name="pick_place">원하는 장소를 고르세요.</string>
+    <string name="plane_finding" translatable="false">Searching for surfaces&#8230;</string>
+
+    <string name="location_search">구글 맵으로 보기</string>
+    <string name="go_ar">AR로 보기</string>
+    <string name="title_activity_maps">내 위치정보</string>
+    <string name="default_info_title">디폴트</string>
+    <string name="default_info_snippet">퍼미션이 안 되어 아무 곳도 찾을 수 없습니다.</string>
+    <string name="option_get_place">장소 찾음</string>
+    <string name="app_sub_name">AR를 활용한 역사관광</string>
+    <string name="app_name">방방곡곡</string>
+
+
+    <string-array name="api">
+        <item>버스 노선 조회</item>
+        <item>버스노선 상세정보 조회</item>
+        <item>버스정류장 세부정보 조회</item>
+        <item>열차•KTX 운행정보 검색</item>
+        <item>고속버스 운행정보 검색</item>
+        <item>시외버스 운행정보 검색</item>
+        <item>항공 운행정보 검색</item>
+        <item>운수회사별 버스노선 조회</item>
+        <item>지하철역 세부 정보 조회</item>
+        <item>지하철역 전체 시간표 조회</item>
+        <item>노선 그래픽 데이터 검색</item>
+        <item>대중교통 정류장 검색</item>
+        <item>반경내 대중교통 POI 검색</item>
+        <item>지도 위 대중교통 POI 검색</item>
+        <item>지하철 경로검색 조회(지하철 노선도)</item>
+        <item>대중교통 길찾기</item>
+        <item>지하철역 환승 정보 조회</item>
+        <item>고속버스 터미널 조회</item>
+        <item>시외버스 터미널 조회</item>
+        <item>도시코드 조회</item>
+    </string-array>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ARActivity">
+
+    <com.google.ar.sceneform.ArSceneView
+        android:id="@+id/ar_scene_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="top"/>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/explan_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="18dp"
+        android:clickable="true"
+        android:foreground="@drawable/explan_kr"
+        app:backgroundTint="#00FFFDFD" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/rating_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="18dp"
+        android:layout_toEndOf="@+id/explan_btn"
+        android:clickable="true"
+        android:foreground="@drawable/rating_kr"
+        app:backgroundTint="#00FFFFFF" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/turning_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="18dp"
+        android:layout_toEndOf="@+id/rating_btn"
+        android:clickable="true"
+        android:foreground="@drawable/turning_kr"
+        app:backgroundTint="#00FFFFFF" />
+
+</RelativeLayout>

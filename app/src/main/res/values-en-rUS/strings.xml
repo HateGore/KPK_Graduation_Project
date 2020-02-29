@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bangbangGoKGoK</string>
+    <string name="app_sub_name">History Tour Using AR</string>
+    <string name="sign_up">Sign up</string>
+    <string name="activity_agree_title">[Appointment to the collection\n
+        and use of personal information]</string>
+    <string name="activity_agree_question">※ Do you agree with the use of the above personal information collection?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="menu">Menu</string>
+    <string name="menu_select_create">Receive recommendation</string>
+    <string name="menu_select_read">Compare</string>
+    <string name="menu_select_create_ex">If you type in the blanks, you can get recommendations for Korean cultural assets in the place.</string>
+    <string name="menu_select_read_ex">Choose the one you like best.</string>
+    <string name="SEOUL">Seoul</string>
+    <string name="INCHEON">Incheon</string>
+    <string name="DAEJEON">Daejeon</string>
+    <string name="DAEGU">Daegu</string>
+    <string name="GWANGJU">Gwangju</string>
+    <string name="BUSAN">Busan</string>
+    <string name="ULSAN">Ulsan</string>
+    <string name="SEJONG">Sejong</string>
+    <string name="GYEONGGI">Gyeonggi</string>
+    <string name="GANGWON">Gangwon</string>
+    <string name="CHUNGBUK">Chungbuk</string>
+    <string name="CHUNGNAM">Chungnam</string>
+    <string name="JEONBUK">Jeonbuk</string>
+    <string name="JEONNAM">Jeonnam</string>
+    <string name="KYONGBUK">Kyongbuk</string>
+    <string name="KYONGNAM">Kyongnam</string>
+    <string name="JEJU">Jeju</string>
+
+    <string name="title_activity_maps">My location</string>
+    <string name="default_info_title">Default Location</string>
+    <string name="default_info_snippet">No places found, because location permission is disabled.</string>
+    <string name="option_get_place">Get place</string>
+    <string name="pick_place">Choose a place</string>
+    <string name="location_search">Show Google Map</string>
+    <string name="go_ar">Show AR</string>
+    <string name="login">Login</string>
+    <string name="search">Search</string>
+    <string name="check_id">ID</string>
+    <string name="name">name</string>
+    <string name="email">e-mail</string>
+    <string name="register">Register</string>
+    <string name="agreement">I am really sorry. A consent form in English is not yet available.</string>
+</resources>

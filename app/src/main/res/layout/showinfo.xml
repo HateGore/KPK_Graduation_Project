@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="370dp"
+    android:layout_height="250dp"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="4dp"
+    android:clipChildren="false"
+    android:clipToPadding="false"
+    >
+
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scroll"
+        >
+
+        <TextView
+            android:id="@+id/ar_textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+    </ScrollView>
+
+
+</LinearLayout>
